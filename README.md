@@ -1,0 +1,2 @@
+# Oligarki
+Simulasi tugas kelompok
